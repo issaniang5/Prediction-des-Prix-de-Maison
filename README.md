@@ -2,7 +2,7 @@
 Les données utilisées dans ce projet proviennent de Kaggle. Le jeu de données est celui des USA Housing Dataset, qui comprend 7 colonnes, y compris la variable cible "Price". Dans cette tâche, nous devons prédire les prix des maisons aux USA. J'ai créé ce carnet pour tester quelques algorithmes de régression en apprentissage automatique via le pipeline sklearn.
 
 
-<img src='https://github.com/issaniang5/Analyseur-de-sentiments-sur-X/blob/main/tweet%202.jpg' height=800px width=800px></img>
+<img src='https://github.com/issaniang5/Prediction-des-Prix-de-Maison/blob/main/IMAGES/image%20readme.jpg' height=800px width=800px></img>
 
 
 Le projet comprend une analyse exploratoire des données (EDA), une analyse des valeurs aberrantes, la construction d'un modèle de référence, la comparaison des modèles, le pipeline sklearn pour éviter les fuites de données, la validation croisée, et l'ajustement des hyperparamètres en utilisant RandomizedSearchCV, ainsi que la prédiction.
